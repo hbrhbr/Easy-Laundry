@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963963993101",
+    "firebase_url": "https://easy-laundry-863b2.firebaseio.com",
+    "project_id": "easy-laundry-863b2",
+    "storage_bucket": "easy-laundry-863b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963963993101:android:e1bbbc8f4b1d2526bb2944",
+        "android_client_info": {
+          "package_name": "com.programmingfever.easy_laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963963993101-beo52ntln8hdktm96r2mp63u9bdffqkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JQOoOiLF7WYX78iw1yIJqhFJybp1pHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963963993101-beo52ntln8hdktm96r2mp63u9bdffqkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
